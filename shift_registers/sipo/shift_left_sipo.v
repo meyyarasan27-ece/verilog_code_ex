@@ -8,7 +8,7 @@ always @(negedge clk )begin
      if(reset)begin
               parallel_data_out <=  4'b0000 ;
               end
-         else begin
+         else begin 
            parallel_data_out <= {parallel_data_out[2:0],serial_data_in} ;
           end
 end
