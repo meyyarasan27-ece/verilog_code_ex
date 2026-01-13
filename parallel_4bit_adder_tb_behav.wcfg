@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="parallel_4bit_adder_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="parallel_4bit_adder_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="160001fs"></ZoomEndTime>
+      <Cursor1Time time="160000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="126"></NameColumnWidth>
+      <ValueColumnWidth column_width="75"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/parallel_4bit_adder_tb/a3" type="logic">
+      <obj_property name="ElementShortName">a3</obj_property>
+      <obj_property name="ObjectShortName">a3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/a2" type="logic">
+      <obj_property name="ElementShortName">a2</obj_property>
+      <obj_property name="ObjectShortName">a2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/a1" type="logic">
+      <obj_property name="ElementShortName">a1</obj_property>
+      <obj_property name="ObjectShortName">a1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/a0" type="logic">
+      <obj_property name="ElementShortName">a0</obj_property>
+      <obj_property name="ObjectShortName">a0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/b3" type="logic">
+      <obj_property name="ElementShortName">b3</obj_property>
+      <obj_property name="ObjectShortName">b3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/b2" type="logic">
+      <obj_property name="ElementShortName">b2</obj_property>
+      <obj_property name="ObjectShortName">b2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/b1" type="logic">
+      <obj_property name="ElementShortName">b1</obj_property>
+      <obj_property name="ObjectShortName">b1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/b0" type="logic">
+      <obj_property name="ElementShortName">b0</obj_property>
+      <obj_property name="ObjectShortName">b0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/carry" type="logic">
+      <obj_property name="ElementShortName">carry</obj_property>
+      <obj_property name="ObjectShortName">carry</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/s3" type="logic">
+      <obj_property name="ElementShortName">s3</obj_property>
+      <obj_property name="ObjectShortName">s3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/s2" type="logic">
+      <obj_property name="ElementShortName">s2</obj_property>
+      <obj_property name="ObjectShortName">s2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/s1" type="logic">
+      <obj_property name="ElementShortName">s1</obj_property>
+      <obj_property name="ObjectShortName">s1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/s0" type="logic">
+      <obj_property name="ElementShortName">s0</obj_property>
+      <obj_property name="ObjectShortName">s0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/parallel_4bit_adder_tb/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+</wave_config>
