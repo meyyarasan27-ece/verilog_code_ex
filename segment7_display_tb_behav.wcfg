@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="segment7_display_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="segment7_display_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="100001fs"></ZoomEndTime>
+      <Cursor1Time time="100000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="126"></NameColumnWidth>
+      <ValueColumnWidth column_width="75"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/segment7_display_tb/b3" type="logic">
+      <obj_property name="ElementShortName">b3</obj_property>
+      <obj_property name="ObjectShortName">b3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/segment7_display_tb/b2" type="logic">
+      <obj_property name="ElementShortName">b2</obj_property>
+      <obj_property name="ObjectShortName">b2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/segment7_display_tb/b1" type="logic">
+      <obj_property name="ElementShortName">b1</obj_property>
+      <obj_property name="ObjectShortName">b1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/segment7_display_tb/b0" type="logic">
+      <obj_property name="ElementShortName">b0</obj_property>
+      <obj_property name="ObjectShortName">b0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/segment7_display_tb/seg_a" type="logic">
+      <obj_property name="ElementShortName">seg_a</obj_property>
+      <obj_property name="ObjectShortName">seg_a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/segment7_display_tb/seg_b" type="logic">
+      <obj_property name="ElementShortName">seg_b</obj_property>
+      <obj_property name="ObjectShortName">seg_b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/segment7_display_tb/seg_c" type="logic">
+      <obj_property name="ElementShortName">seg_c</obj_property>
+      <obj_property name="ObjectShortName">seg_c</obj_property>
+   </wvobject>
+   <wvobject fp_name="/segment7_display_tb/seg_d" type="logic">
+      <obj_property name="ElementShortName">seg_d</obj_property>
+      <obj_property name="ObjectShortName">seg_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/segment7_display_tb/seg_e" type="logic">
+      <obj_property name="ElementShortName">seg_e</obj_property>
+      <obj_property name="ObjectShortName">seg_e</obj_property>
+   </wvobject>
+   <wvobject fp_name="/segment7_display_tb/seg_f" type="logic">
+      <obj_property name="ElementShortName">seg_f</obj_property>
+      <obj_property name="ObjectShortName">seg_f</obj_property>
+   </wvobject>
+   <wvobject fp_name="/segment7_display_tb/seg_g" type="logic">
+      <obj_property name="ElementShortName">seg_g</obj_property>
+      <obj_property name="ObjectShortName">seg_g</obj_property>
+   </wvobject>
+   <wvobject fp_name="/segment7_display_tb/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+</wave_config>
