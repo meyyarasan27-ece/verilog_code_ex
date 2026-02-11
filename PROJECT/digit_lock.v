@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-module digital_lock(
+module digit_lock(
     input clk,
     input reset,
     input [7:0] rx_data,
