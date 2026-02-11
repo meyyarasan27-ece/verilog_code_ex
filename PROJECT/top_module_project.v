@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // College: ADHI COLLEGE OF ENGINEERING AND TECHNOLOGY
-// Engineer: MEYYARASAN S , ARUN K , KEERTHANA S :
+// Engineer: MEYYARASAN S 
 // 
 // Create Date: 10.02.2026 20:43:58
 // Design Name: Secured UART-Controlled ALU System
@@ -77,8 +77,8 @@ localparam WAIT_PASS = 3'd0,
         .parity_error(parity_error)
     );
 
-    // DIGITAL LOCK 
-    digital_lock lock_inst (
+    // DIGIT LOCK 
+    digit_lock lock_inst (
         .clk(clk),
         .reset(reset),
         .rx_data(rx_data),
